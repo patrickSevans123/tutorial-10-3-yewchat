@@ -23,6 +23,8 @@ This repository is divided to branches that correspond to the blog post sections
 
 ## 3.1. Original code.
 Berikut adalah gambar saat saya berhasil melakukan chatting dengan aplikasi web sederhana untuk beberapa orang:
-![Image](img\1.png)
+![Image](img/1.png)
 
-3.2. Add some creativities to the webclient 
+3.2. Add some creativities to the webclient.
+Saya memperbaiki avatar yang sebelumnya tidak bisa tampil. Avatar ini digenerate melalui API dari dicebear yang menyediakan avatar random.
+![Image](img/2.png)
